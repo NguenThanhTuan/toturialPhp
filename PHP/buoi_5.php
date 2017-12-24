@@ -53,3 +53,11 @@
 <form action="" method="POST">
 	<input type="submit" name="submit">
 </form>
+
+<!-- 
+	Kết quả: 
+	- Sử dụng hàm unlink để xóa file. Unset để xóa biến, xóa phần tử trong mảng
+	- Phân biệt được: include, require, include_once, require_once
+	- Chuyển hướng trang web
+
+ -->
